@@ -3,7 +3,7 @@
 [![R](https://img.shields.io/badge/R-%3E%3D4.0-blue.svg)](https://www.r-project.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-A reproducible analysis pipeline examining the relationship between Open Access publishing types and citation counts in academic ophthalmology literature.
+A reproducible analysis pipeline examining the relationship between Open Access publishing types and citation counts in academic orthopedic literature.
 
 ---
 
